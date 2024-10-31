@@ -1,0 +1,13 @@
+
+Create Conda or python envirement  and insatll fallowing libraries and modules
+
+insatll python
+install jupyter
+
+Install libraries using pip or conda :
+
+pandas
+matplotlib
+seaborn 
+Scikit-learn
+
